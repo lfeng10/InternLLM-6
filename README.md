@@ -1,1 +1,1 @@
-# InternLLM-6
+# InternLM-6
